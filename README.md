@@ -41,6 +41,7 @@ Maze Escape is a 3D First-Person game developed using Unity, where the player mu
 ## 👩‍💻 Developer
 
 **Fatima Alaiwi**  
+
 ---
 
 ## 🎯 Goal
