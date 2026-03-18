@@ -1,7 +1,7 @@
 
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using static System.Net.Mime.MediaTypeNames;
+//using static System.Net.Mime.MediaTypeNames;
 public class MainMenuControls : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
